@@ -1,2 +1,5 @@
 {"ts":1378330393556,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
 {"contributors":[],"silentsave":false,"ts":1378406040133,"patch":[[{"diffs":[[1,"test"]],"start1":0,"start2":0,"length1":0,"length2":4}]],"length":4,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1378926879491,"patch":[[{"diffs":[[0,"test"],[1,"\n<p>Rubrik</p>"]],"start1":0,"start2":0,"length1":4,"length2":18}]],"length":18,"saved":false}
+{"ts":1378926910650,"patch":[[{"diffs":[[-1,"test\n"],[0,"<p>R"]],"start1":0,"start2":0,"length1":9,"length2":4},{"diffs":[[0,"brik</p>"],[1,"\ntest\n"]],"start1":5,"start2":5,"length1":8,"length2":14}]],"length":19,"saved":false}
+{"ts":1378926931627,"patch":[[{"diffs":[[0,"<"],[-1,"p"],[1,"h1"],[0,">Rubrik<"]],"start1":0,"start2":0,"length1":10,"length2":11},{"diffs":[[0,"ik</"],[-1,"p"],[1,"h1"],[0,">\nte"]],"start1":8,"start2":8,"length1":9,"length2":10}]],"length":21,"saved":false}
