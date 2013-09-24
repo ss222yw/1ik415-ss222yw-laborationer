@@ -1,17 +1,11 @@
 /* Layout */
-h1{
-    color: #0D0602;
-    }
-    
-p{
-    color: #080201;
-}
+
 
 #container
 {
     background-color:#00403F;
-    width:960px;
-    border: 2px solid blue;
+    max-width:960px;
+    border: 0.5px solid blue;
     margin:0 auto;
     
     
@@ -20,7 +14,7 @@ p{
 #top
 {   
     background-color:#8DD7E8;
-    border: 2px solid blue;
+    border: 0.5px solid blue;    
     margin-bottom:1px;
     padding:5px;
     max-width:960px;
@@ -30,30 +24,63 @@ p{
 #content
 {
     background-color:#00CAC9;
-    border:2px solid blue;
+    border:0.5px solid blue;
     margin-left:215px;
-    height:750px;
+    height:880px;
     padding:5px;
     margin-bottom: 1px;
-    
+    max-width:800px;
 
 }
 
 #navigation
 {
+    
     background-color:#5E90B9;
-    border:2px solid blue;
+    border:1px dashed blue;
     width:200px;
     float:left;
     padding:5px;
+    margin:20px 1px 1px 1px;
     
+    
+}
+a:link {color:#FF0000;}      /* unvisited link */
+a:visited {color:#00FF00;}  /* visited link */
+a:hover {color:#FF00FF;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+ul{
+    border: 2px solid black;
+    border-bottom:none;
+    width: 200px;
+    margin:0;
+    padding:0;
+    
+}
+li {
+    list-style-type: none;
+    border-bottom: 2px solid black;
+}
+
+li a {
+    display:block;
+    padding: 10px;
+    background-color:#38618F;
+    color: #403400;
+}
+
+li a:hover{
+    color:#DB7BF8;
+    background-color:#3B5E02;
 }
 
 
 #footer
 {
     background-color:#8F3852;
-    border:2px solid blue;
+    border:0.5px solid blue;
     padding:5px;
+    max-width:960px;
 
 }
