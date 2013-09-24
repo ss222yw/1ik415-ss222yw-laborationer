@@ -1,0 +1,59 @@
+/* Layout */
+h1{
+    color: #0D0602;
+    }
+    
+p{
+    color: #080201;
+}
+
+#container
+{
+    background-color:#00403F;
+    width:960px;
+    border: 2px solid blue;
+    margin:0 auto;
+    
+    
+    }
+
+#top
+{   
+    background-color:#8DD7E8;
+    border: 2px solid blue;
+    margin-bottom:1px;
+    padding:5px;
+    max-width:960px;
+    
+}
+
+#content
+{
+    background-color:#00CAC9;
+    border:2px solid blue;
+    margin-left:215px;
+    height:750px;
+    padding:5px;
+    margin-bottom: 1px;
+    
+
+}
+
+#navigation
+{
+    background-color:#5E90B9;
+    border:2px solid blue;
+    width:200px;
+    float:left;
+    padding:5px;
+    
+}
+
+
+#footer
+{
+    background-color:#8F3852;
+    border:2px solid blue;
+    padding:5px;
+
+}
