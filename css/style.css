@@ -1,13 +1,16 @@
 /* Layout */
 
 
+
+
 #container
 {
-    background-color:#00403F;
     max-width:960px;
     border: 0.5px solid blue;
     margin:0 auto;
-    
+     background-color:#00403F;
+     background-image: url(pics/sahib.jpg);
+     background-repeat:repeat-x;
     
     }
 
@@ -26,25 +29,33 @@
     background-color:#00CAC9;
     border:0.5px solid blue;
     margin-left:215px;
-    height:880px;
     padding:5px;
     margin-bottom: 1px;
     max-width:800px;
-
+    
+    
 }
+
 
 #navigation
 {
     
     background-color:#5E90B9;
-    border:1px dashed blue;
+    border:1px solid blue;
     width:200px;
     float:left;
     padding:5px;
     margin:20px 1px 1px 1px;
     
     
+    
 }
+
+#navigation .active a
+{
+    color:white;
+}
+
 a:link {color:#FF0000;}      /* unvisited link */
 a:visited {color:#00FF00;}  /* visited link */
 a:hover {color:#FF00FF;}  /* mouse over link */
@@ -82,5 +93,17 @@ li a:hover{
     border:0.5px solid blue;
     padding:5px;
     max-width:960px;
+
+}
+
+
+h1.background
+{ 
+background-image:url(pics/web2.gif);
+background-repeat:repeat-x;
+background-position:right; 
+text-indent: 600px;
+width: 950px;
+height:300px;
 
 }
