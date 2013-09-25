@@ -96,6 +96,12 @@ li a:hover{
     max-width:960px;
 
 }
+.left{float:left;}
+.right{float:right;}
+.cnter{float:center;}
+.active{color:yellow;}
+.creat:before {content: url(pics/css-icon.png);}
+
 
 
 h1.background
