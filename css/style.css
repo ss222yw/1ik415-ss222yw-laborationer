@@ -24,7 +24,6 @@ h1{
     max-width:960px;
     
 }
-
 #content
 {
     background-color:#EEFF9F;
@@ -33,9 +32,27 @@ h1{
     padding:5px;
     margin-bottom: 1px;
     max-width:800px;
-    
-    
+
 }
+.left{float:left;}
+.right{float:right;}
+.cnter{float:center;}
+.active{color:yellow;}
+.text:before {content: url(pics/text-icon2.png);}
+
+.left{float:left;}
+.right{float:right;}
+.cnter{float:center;}
+.active{color:yellow;}
+.video:before {content: url(pics/Movie_File.png);}
+
+p.photo
+{
+background-repeat:no-repeat;
+background-position:right; 
+text-indent: 150px;
+width: 220px;
+height:30px;}
 
 
 #navigation
@@ -94,15 +111,12 @@ li a:hover{
     border:0.5px solid blue;
     padding:5px;
     max-width:960px;
-
 }
 .left{float:left;}
 .right{float:right;}
 .cnter{float:center;}
 .active{color:yellow;}
-.creat:before {content: url(pics/css-icon.png);}
-
-
+.creat:before {content: url(pics/youtube-128x128.png);}
 
 h1.background
 { 
@@ -118,3 +132,49 @@ height:300px;
     margin:20px;
     float:right;
 }
+h2.pos_fixed{
+    background:line;
+    background-color:#DDFCF3;
+    width:500px;
+    overflow:hidden;
+    position:fixed;
+    top:50%;
+    right:0;
+    margin-top: -200px;
+}
+video[poster]{
+height:50%;
+width:50%;
+}
+#line{
+    border-bottom: 1px black solid;
+    height:1px;        
+    margin: 10px 0 15px 0;
+}
+p.svg
+{
+background-repeat:no-repeat;
+background-position:right; 
+text-indent: 150px;
+width: 220px;
+height:10px;}
+
+.left{float:left;}
+.right{float:right;}
+.cnter{float:center;}
+.active{color:yellow;}
+.smile:before {content: url(pics/smile.png);}
+
+.left{float:left;}
+.right{float:right;}
+.cnter{float:center;}
+.active{color:yellow;}
+.css:before {content: url(pics/css_icon.png);}
+
+.left{float:left;}
+.right{float:right;}
+.cnter{float:center;}
+.active{color:yellow;}
+.album:before {content: url(pics/function-icons.png);}
+
+
