@@ -111,3 +111,4 @@
 {"ts":1380131541375,"patch":[[{"diffs":[[0,"eat:before {"],[-1,"content"],[1,"navigation"],[0,": url(css/pi"]],"start1":1813,"start2":1813,"length1":31,"length2":34}]],"length":1872,"saved":false}
 {"ts":1380131561217,"patch":[[{"diffs":[[0,"before {"],[-1,"navigation"],[1,"content"],[0,": url(cs"]],"start1":1817,"start2":1817,"length1":26,"length2":23}]],"length":1869,"saved":false}
 {"ts":1380131624626,"patch":[[{"diffs":[[0,"px;\n"],[-1,"    float:right;\n}\n\n.left{float:left;}\n.right{float:right;}\n.cnter{float:center;}\n.active{color:yellow;}\n.creat:before {content: url(css/pics/youtube-128x128.png);"],[0,"}"],[1,"\n"]],"start1":1701,"start2":1701,"length1":168,"length2":6}]],"length":1707,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1380131899539,"patch":[[{"diffs":[[0,"n:20px;\n"],[1,"    float:right;\n"],[0,"}\n"]],"start1":1697,"start2":1697,"length1":10,"length2":27}]],"length":1724,"saved":false}
