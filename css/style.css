@@ -3,23 +3,23 @@
 h1{
     font-family: 'Lily Script One', cursive;
     }
-body.background1
+.background1
 {
     background-image:url('pics/background-full-HD.jpg');
     background-attachment:fixed;
 }
 
-body.background2
+.background2
 {
     background-image:url('pics/HD-Wallpapers-Laptop.jpg');
     background-attachment:fixed;
 }
-body.background3
+.background3
 {
     background-image:url('pics/background3.jpg');
     background-attachment:fixed;
 }
-body.background4
+.background4
 {
     background-image:url('pics/background4.jpg');
     background-attachment:fixed;
@@ -35,9 +35,36 @@ body.background4
     
     }
 
+.logo4
+{
+    background-image: url(pics/logo4.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 960px;
+    height: 145px;
+}
+.logo3
+{
+    background-image: url(pics/logo3.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 960px;
+    height: 98px
+}
+.logo5
+{
+    background-image: url(pics/logo5.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 960px;
+    height: 194px
+}
+
+
+
 #top
 {   
-    background-color:#DCE8CA;
+   background-color:#B7BDE8;
     border: 0.5px solid blue;    
     margin-bottom:1px;
     padding:5px;
