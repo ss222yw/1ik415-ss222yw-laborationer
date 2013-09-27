@@ -14,13 +14,23 @@ body.background2
     background-image:url('pics/HD-Wallpapers-Laptop.jpg');
     background-attachment:fixed;
 }
+body.background3
+{
+    background-image:url('pics/background3.jpg');
+    background-attachment:fixed;
+}
+body.background4
+{
+    background-image:url('pics/background4.jpg');
+    background-attachment:fixed;
+}
 
 #container
 {
     max-width:960px;
     border: 0.5px solid blue;
     margin:0 auto;
-     background-color:#F5FFD0;
+     background-color:#757D77;
 
     
     }
@@ -68,8 +78,8 @@ height:30px;}
 #navigation
 {
     
-    background-color:#F5FFD5;
-    border:1px solid #F5FFD5;
+    background-color:#757D77;
+    border:1px solid #757D77;
     width:200px;
     float:left;
     padding:5px;
