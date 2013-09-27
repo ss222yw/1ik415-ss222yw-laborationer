@@ -71,3 +71,4 @@
 {"ts":1380235137871,"patch":[[{"diffs":[[0,"nd: "],[-1,"black"],[1,"none"],[0,"; co"]],"start1":1772,"start2":1772,"length1":13,"length2":12}]],"length":5870,"saved":false}
 {"ts":1380235153410,"patch":[[{"diffs":[[0,"or: "],[-1,"white"],[1,"black"],[0,"; li"]],"start1":1785,"start2":1785,"length1":13,"length2":13}]],"length":5870,"saved":false}
 {"ts":1380235178445,"patch":[[{"diffs":[[0,"ntent\">\n"],[1,"             "],[0,"<h2 clas"]],"start1":1733,"start2":1733,"length1":16,"length2":29},{"diffs":[[0,"</h2>           "],[1,"\n            "],[0," <div id=\"line\">"]],"start1":1918,"start2":1918,"length1":32,"length2":45}]],"length":5896,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1380266552523,"patch":[[{"diffs":[[0,"   <body"],[1," class=\"background2\""],[0,">\n      "]],"start1":207,"start2":207,"length1":16,"length2":36}]],"length":5916,"saved":false}

@@ -3,14 +3,24 @@
 h1{
     font-family: 'Lily Script One', cursive;
     }
+body.background1
+{
+    background-image:url('pics/background-full-HD.jpg');
+    background-attachment:fixed;
+}
 
+body.background2
+{
+    background-image:url('pics/HD-Wallpapers-Laptop.jpg');
+    background-attachment:fixed;
+}
 
 #container
 {
     max-width:960px;
     border: 0.5px solid blue;
     margin:0 auto;
-     background-color:#F5FFD5;
+     background-color:#F5FFD0;
 
     
     }
