@@ -59,6 +59,14 @@ h1{
     background-size: 960px;
     height: 194px
 }
+.logo6
+{
+    background-image: url(pics/logo6.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 960px;
+    height: 62px
+}
 
 
 
@@ -81,15 +89,11 @@ h1{
     max-width:800px;
 
 }
-.left{float:left;}
-.right{float:right;}
-.cnter{float:center;}
+
+
 .active{color:yellow;}
 .text:before {content: url(pics/text-icon2.png);}
 
-.left{float:left;}
-.right{float:right;}
-.cnter{float:center;}
 .active{color:yellow;}
 .video:before {content: url(pics/Movie_File.png);}
 
@@ -159,9 +163,7 @@ li a:hover{
     padding:5px;
     max-width:960px;
 }
-.left{float:left;}
-.right{float:right;}
-.cnter{float:center;}
+
 .active{color:yellow;}
 .creat:before {content: url(pics/youtube-128x128.png);}
 
@@ -179,16 +181,7 @@ height:300px;
     margin:20px;
     float:right;
 }
-h2.pos_fixed{
-    background:line;
-    background-color:#DDFCF3;
-    width:500px;
-    overflow:hidden;
-    position:fixed;
-    top:50%;
-    right:0;
-    margin-top: -200px;
-}
+
 video[poster]{
 height:50%;
 width:50%;
@@ -198,7 +191,7 @@ width:50%;
     height:1px;        
     margin: 10px 0 15px 0;
 }
-p.svg
+.svg
 {
 background-repeat:no-repeat;
 background-position:right; 
@@ -206,21 +199,18 @@ text-indent: 150px;
 width: 220px;
 height:10px;}
 
-.left{float:left;}
-.right{float:right;}
-.cnter{float:center;}
+
+
 .active{color:yellow;}
 .smile:before {content: url(pics/smile.png);}
 
-.left{float:left;}
-.right{float:right;}
-.cnter{float:center;}
+
 .active{color:yellow;}
 .css:before {content: url(pics/css_icon.png);}
 
 .left{float:left;}
 .right{float:right;}
-.cnter{float:center;}
+
 .active{color:yellow;}
 .album:before {content: url(pics/function-icons.png);}
 
