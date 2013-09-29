@@ -1,0 +1,27 @@
+#navigation, #top {display:none;}
+#content { width: 100%; margin: 0; float: none; }
+
+body {
+	font-size: 12pt;
+	line-height: 13pt;
+	font-family: Georgia, "Times New Roman", 
+	Times, serif;
+}
+img {
+max-width: 500px;
+}
+h1 {
+font-size: 24pt;
+}
+
+h2 {
+font-size: 14pt;
+margin-top: 25px;
+}
+video{
+    display:none;
+}
+
+ifram{
+    display:none;
+}
