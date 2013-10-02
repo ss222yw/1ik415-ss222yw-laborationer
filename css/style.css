@@ -180,7 +180,6 @@ height:300px;
     margin:20px;
     float:right;
 }
-
 video[poster]{
 height:50%;
 width:50%;
@@ -199,7 +198,6 @@ width: 220px;
 height:10px;}
 
 
-
 .active{color:yellow;}
 .smile:before {content: url(pics/smile.png);}
 
@@ -212,5 +210,9 @@ height:10px;}
 
 .active{color:yellow;}
 .album:before {content: url(pics/function-icons.png);}
+
+
+.active{color:yellow;}
+.uppgift3-3:before {content: url(pics/text-blog.jpg);}
 
 
