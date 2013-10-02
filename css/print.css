@@ -1,5 +1,5 @@
 #navigation, #top {display:none;}
-#content { width: 100%; margin: 0; float: none; }
+#content { width: 100%; margin: 0; float: none; border:none; }
 
 body {
 	font-size: 12pt;
