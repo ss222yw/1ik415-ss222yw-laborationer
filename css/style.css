@@ -1,4 +1,38 @@
 /* Layout */
+
+#menu a
+{
+  background-image:url(pics/test.png);
+  background-repeat:no-repeat;
+  padding-left: 30px;
+  display:block;
+ 
+}
+#start {
+    background-position: 0 -74px ; 
+}
+#start:hover{
+    background-position:0 0;
+}
+#kontakt {
+    background-position: 0 -223px ;
+}
+#kontakt:hover {
+    background-position:0 -150px;
+}
+#laboration {
+    background-position:0 -296px;
+}
+#laboration:hover {
+    background-position:0 -371px;
+}
+#presentation {
+    background-position:0 -448px;
+}
+#presentation:hover {
+    background-position:0 -524px;
+}
+
 h1{
     font-family: 'Lily Script One', cursive;
     }
