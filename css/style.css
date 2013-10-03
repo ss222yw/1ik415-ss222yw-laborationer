@@ -143,10 +143,12 @@ p.photo
 background-repeat:no-repeat;
 background-position:right; 
 text-indent: 150px;
-width: 220px;
+width: 240px;
 height:30px;
-}
 
+}
+p.photo img {border-width:5px;	
+border-style:inset;}
 
 #navigation
 {
@@ -221,6 +223,11 @@ width: 950px;
 height:300px;
 
 }
+p.one img{border-width:5px;	
+border-style:ridge;}
+p.tow img {border-width:5px;	
+border-style:groove;}
+
 #resultat{background-color:#E6E6FA;}
 p.text1{
     text-shadow: 5px 5px 5px #FF0000;

@@ -148,3 +148,16 @@
 {"ts":1380828551239,"patch":[[{"diffs":[[0,".</p>\n        <p"],[1," class=\"text4\""],[0,">Skrivet av Sahi"]],"start1":5742,"start2":5742,"length1":32,"length2":46}]],"length":6831,"saved":false}
 {"ts":1380828568080,"patch":[[{"diffs":[[0,"          <p"],[1," class=\"text4\""],[0,">Skrivet av "]],"start1":6399,"start2":6399,"length1":24,"length2":38}]],"length":6845,"saved":false}
 {"ts":1380829632286,"patch":[[{"diffs":[[0,"  <p class=\"text"],[-1,"4"],[1,"1"],[0,"\">Skrivet av Sah"]],"start1":6407,"start2":6407,"length1":33,"length2":33}]],"length":6845,"saved":false}
+{"ts":1380830770068,"patch":[[{"diffs":[[0,"ht=\"300\""],[1," border=\"2\""],[0,"/>Jag ti"]],"start1":3713,"start2":3713,"length1":16,"length2":27}]],"length":6856,"saved":false}
+{"ts":1380830817172,"patch":[[{"diffs":[[0,"ht=\"120\""],[1," border=\"dashed 2\""],[0,"/>Den va"]],"start1":6052,"start2":6052,"length1":16,"length2":34}]],"length":6874,"saved":false}
+{"ts":1380830915584,"patch":[[{"diffs":[[0,"120\""],[-1," border=\"dashed 2\""],[0,"/>De"]],"start1":6056,"start2":6056,"length1":26,"length2":8}]],"length":6856,"saved":false}
+{"ts":1380830944751,"patch":[[{"diffs":[[0,"      <p"],[1," id=\"dashed\""],[0,"><img sr"]],"start1":5982,"start2":5982,"length1":16,"length2":28}]],"length":6868,"saved":false}
+{"ts":1380831079192,"patch":[[{"diffs":[[0,"      <p"],[1,"><div"],[0," id=\"das"]],"start1":5982,"start2":5982,"length1":16,"length2":21},{"diffs":[[0,"=\"120\"/>"],[1,"</div>"],[0,"Den var "]],"start1":6071,"start2":6071,"length1":16,"length2":22}]],"length":6879,"saved":false}
+{"ts":1380831217747,"patch":[[{"diffs":[[0,"  <p"],[-1,"><div"],[0," id="]],"start1":5986,"start2":5986,"length1":13,"length2":8},{"diffs":[[0,"=\"120\"/>"],[-1,"</div>"],[0,"Den var "]],"start1":6066,"start2":6066,"length1":22,"length2":16}]],"length":6868,"saved":false}
+{"ts":1380831283493,"patch":[[{"diffs":[[0,"  <p"],[-1," id=\"dashed\""],[0,"><im"]],"start1":5986,"start2":5986,"length1":20,"length2":8}]],"length":6856,"saved":false}
+{"ts":1380831354486,"patch":[[{"diffs":[[0,"border=\""],[-1,"2"],[1,"0"],[0,"\"/>Jag t"]],"start1":3722,"start2":3722,"length1":17,"length2":17}]],"length":6856,"saved":false}
+{"ts":1380831370135,"patch":[[{"diffs":[[0,"300\""],[-1," border=\"0\""],[0,"/>Ja"]],"start1":3717,"start2":3717,"length1":19,"length2":8}]],"length":6845,"saved":false}
+{"ts":1380831573608,"patch":[[{"diffs":[[0,"    <p><"],[1,"class=\"img1\" "],[0,"img src="]],"start1":5973,"start2":5973,"length1":16,"length2":29}]],"length":6858,"saved":false}
+{"ts":1380831659993,"patch":[[{"diffs":[[0,"=\"img1\" "],[1,"\""],[0,"img src="]],"start1":5986,"start2":5986,"length1":16,"length2":17}]],"length":6859,"saved":false}
+{"ts":1380831695016,"patch":[[{"diffs":[[0,"  <p"],[-1,"><"],[1," "],[0,"class=\""],[-1,"img1\" \""],[1,"one\"><"],[0,"img "]],"start1":5975,"start2":5975,"length1":24,"length2":22}]],"length":6857,"saved":false}
+{"ts":1380831898727,"patch":[[{"diffs":[[0," class=\""],[-1,"img"],[1,"tow"],[0,"\" ><img "]],"start1":3629,"start2":3629,"length1":19,"length2":19}]],"length":6857,"saved":false}
