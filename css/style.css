@@ -337,3 +337,13 @@ height:10px;}
 p{font-family:Lucida Sans Unicode;}
 
 #myh1.h3{text-shadow:5px 5px 5px red;}
+
+input[type="text"]{
+  width:200px;
+}
+label{
+    width:150px;
+}
+textarea{
+    width:200px;
+}
