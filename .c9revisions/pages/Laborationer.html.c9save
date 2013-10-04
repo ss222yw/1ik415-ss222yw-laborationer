@@ -98,3 +98,5 @@
 {"ts":1380837187506,"patch":[[{"diffs":[[0,"    "],[-1,"\n        </div>\n        "],[0,"  <d"]],"start1":5451,"start2":5451,"length1":32,"length2":8},{"diffs":[[0,"     </div>\n"],[1,"        </div>\n        \n"],[0,"      </div>"]],"start1":5556,"start2":5556,"length1":24,"length2":48}]],"length":5626,"saved":false}
 {"ts":1380837470203,"patch":[[{"diffs":[[0,"container\">\n"],[1,"              <hr>\n"],[0,"       <div "]],"start1":5473,"start2":5473,"length1":24,"length2":43}]],"length":5645,"saved":false}
 {"ts":1380837492562,"patch":[[{"diffs":[[0,"ainer\">\n"],[-1,"              <hr>\n"],[0,"       <"]],"start1":5477,"start2":5477,"length1":35,"length2":16}]],"length":5626,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1380874135175,"patch":[[{"diffs":[[0,"    "],[-1,"  <div class=\"bot\"></div>\n       <div class=\"bot_shadow\"></div>\n       </div>"],[0,"\n   "]],"start1":5486,"start2":5486,"length1":85,"length2":8}]],"length":5549,"saved":false}
+{"ts":1380874200113,"patch":[[{"diffs":[[0,"    "],[-1,"      <div class=\"bot_container\">"],[0,"\n   "]],"start1":5447,"start2":5447,"length1":41,"length2":8}]],"length":5516,"saved":false}
