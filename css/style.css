@@ -100,6 +100,27 @@ h4{color:#1E90FF;}
     50% {margin : 0px 20% ; opacity:0.7;}
     100% {margin:0px 0px 0px 0px; opacity:0.1;}
     }
+    div
+{
+animation: myfirst 5s;
+ /* Safari and Chrome */
+}
+.css3-1{
+ width:940px;
+height:150px;
+ margin:0 auto;
+  border:0.5px solid;
+border-radius:25px;
+background:#DCDCDC;
+position:relative;
+animation:mymove 5s infinite;
+-webkit-animation:mymove 15s infinite;
+   }
+@-webkit-keyframes mymove /* Safari and Chrome */
+{
+0%   {top:0px; background:#CD853F; width:1px;}
+50% {top:0px; background:#5F9EA0; width:940px;}
+}
 #container
 {
     max-width:960px;
@@ -208,10 +229,10 @@ border-style:inset;
     color:#FF0000 ;
 }
 
-a:link {color:#F8F8F8 ;}      /* unvisited link */
-a:visited {color:#500000 ;}  /* visited link */
-a:hover {color:#F8F8F8 ;}  /* mouse over link */
-a:active {color:#F8F8F8 ;}  /* selected link */
+a:link {color:#6495ED ;}      /* unvisited link */
+a:visited {color:#6495ED ;}  /* visited link */
+a:hover {color:#6495ED;}  /* mouse over link */
+a:active {color:#6495ED ;}  /* selected link */
 
 ul{
     border-bottom:none;
@@ -228,9 +249,9 @@ li a {
     display:block;
     padding: 4px;
     background-color:#E8E8E8  ;
-    color: #E8E8E8 ;
+    color: #6495ED ;
         border:1px solid;
-border-radius:25px;
+      border-radius:25px;
 }
 
 li a:hover{
