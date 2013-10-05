@@ -101,22 +101,7 @@ h4{color:#1E90FF;}
     100% {margin:0px 0px 0px 0px; opacity:0.1;}
     }
 
-.css3-1{
- width:940px;
-height:150px;
- margin:0 auto;
-  border:0.5px solid;
-border-radius:25px;
-background:#DCDCDC;
-position:relative;
-animation:mymove 5s infinite;
--webkit-animation:mymove 15s infinite;
-   }
-@-webkit-keyframes mymove /* Safari and Chrome */
-{
-0%   {top:0px; background:#CD853F; width:1px;}
-50% {top:0px; background:#5F9EA0; width:940px;}
-}
+
 #container
 {
     max-width:960px;
@@ -248,9 +233,9 @@ border-style:inset;
 }
 
 a:link {color:#6495ED ;}      /* unvisited link */
-a:visited {color:#6495ED ;}  /* visited link */
-a:hover {color:#6495ED;}  /* mouse over link */
-a:active {color:#6495ED ;}  /* selected link */
+a:visited {color:black  ;}  /* visited link */
+a:hover {color:#A8A8A8;}  /* mouse over link */
+a:active {color:#E8E8E8;}  /* selected link */
 
 ul{
     border-bottom:none;
@@ -268,8 +253,8 @@ li a {
     padding: 4px;
     background-color:#E8E8E8  ;
     color: #6495ED ;
-        border:1px solid;
-      border-radius:25px;
+    border:1px solid;
+    border-radius:25px;
 }
 
 li a:hover{
