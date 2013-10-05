@@ -1,5 +1,4 @@
 /* Layout */
-
 #menu a
 {
   background-image:url(pics/test.png);
@@ -42,27 +41,8 @@ h1{
 h2{color:#00008B;} 
 h3{color:#6495ED;}
 h4{color:#1E90FF;}
-.background1
-{
-    background-image:url('pics/background-full-HD.jpg');
-    background-attachment:fixed;
-}
 
-.background2
-{
-    background-image:url('pics/HD-Wallpapers-Laptop.jpg');
-    background-attachment:fixed;
-}
-.background3
-{
-    background-image:url('pics/background3.jpg');
-    background-attachment:fixed;
-}
-.background4
-{
-    background-image:url('pics/background4.jpg');
-    background-attachment:fixed;
-}
+
 
 .bot_container{
     width:250px;
@@ -107,7 +87,7 @@ h4{color:#1E90FF;}
     max-width:960px;
     margin:0 auto;
      background-color:#505050 ;
-     border:0.5px solid;
+     border:0.1px solid;
 border-radius:25px;
 
     
@@ -159,7 +139,7 @@ border-radius:25px;
 }
 #content
 {
-    background-color:#F0F0F0   ;
+    background-color:white   ;
     margin-left:215px;
     padding:5px;
     margin-bottom: 1px;

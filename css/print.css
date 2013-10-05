@@ -1,6 +1,7 @@
-#navigation, #top {display:none;}
+#navigation, #top{display:none;}
 #content { width: 100%; margin: 0; float: none; border:none; }
 #footer {display:none;}
+
 body {
 	font-size: 12pt;
 	line-height: 13pt;
@@ -26,8 +27,3 @@ iframe{
     display:none;
 }
 p.creat {display:none;}
-
-#body background1{display:none;}
-#body background2{display:none;}
-#body background3 {display:none;}
-#body background4 {display:none;}
