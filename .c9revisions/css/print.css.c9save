@@ -92,3 +92,7 @@
 {"ts":1380997370468,"patch":[[{"diffs":[[0,"rint { \n"],[1,"#content "],[0,"body.bac"]],"start1":128,"start2":128,"length1":16,"length2":25}]],"length":458,"saved":false}
 {"ts":1380997395965,"patch":[[{"diffs":[[0,"tent"],[-1," body"],[0,".bac"]],"start1":140,"start2":140,"length1":13,"length2":8}]],"length":453,"saved":false}
 {"ts":1380997427700,"patch":[[{"diffs":[[0,"e;}\n"],[-1,"@media print { \n#content.background1{display: none;}\n}"],[0,"\nbod"]],"start1":116,"start2":116,"length1":62,"length2":8}]],"length":399,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1381155867102,"patch":[[{"diffs":[[0,"p.creat {display:none;}\n"],[1,"#content img{max-width:100%;}\n\n"]],"start1":375,"start2":375,"length1":24,"length2":55}]],"length":430,"saved":false}
+{"ts":1381159054635,"patch":[[{"diffs":[[0,":100%;}\n"],[1,"@media screen and (max-width: 480px) {\n#content {\n\twidth: 100%;\n\tfloat: none;\n}\n#sidebar {\n\twidth: 100%;\n\tfloat: none;\n}\n}"],[0,"\n"]],"start1":421,"start2":421,"length1":9,"length2":131}]],"length":552,"saved":false}
+{"ts":1381159061547,"patch":[[{"diffs":[[0,"\n}\n#"],[-1,"sidebar"],[1,"ul"],[0," {\n\t"]],"start1":506,"start2":506,"length1":15,"length2":10}]],"length":547,"saved":false}
+{"ts":1381159211662,"patch":[[{"diffs":[[0,"ne;\n}\n}\n"],[1,"img{\n  max-width:98%;\n  padding:1%; /* Padding som dubblerad och ihop med bredden ovan tillsammans blir 100%. */\n  background-color:#fff; /* Färg på vår fejkade border. */\n}"]],"start1":539,"start2":539,"length1":8,"length2":181}]],"length":720,"saved":false}

@@ -27,3 +27,19 @@ iframe{
     display:none;
 }
 p.creat {display:none;}
+#content img{max-width:100%;}
+@media screen and (max-width: 480px) {
+#content {
+	width: 100%;
+	float: none;
+}
+#ul {
+	width: 100%;
+	float: none;
+}
+}
+img{
+  max-width:98%;
+  padding:1%; /* Padding som dubblerad och ihop med bredden ovan tillsammans blir 100%. */
+  background-color:#fff; /* Färg på vår fejkade border. */
+}
