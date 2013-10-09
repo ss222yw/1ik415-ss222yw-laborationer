@@ -100,3 +100,4 @@
 {"ts":1381278009235,"patch":[[{"diffs":[[0,"  <br/>\n"],[1,"            </fieldset>"],[0,"\n       "]],"start1":3540,"start2":3540,"length1":16,"length2":39}]],"length":4395,"saved":false}
 {"ts":1381278387954,"patch":[[{"diffs":[[0,"idth: 48"],[-1,"0"],[1,"1"],[0,"px)\" hre"]],"start1":883,"start2":883,"length1":17,"length2":17}]],"length":4395,"saved":false}
 {"ts":1381278421106,"patch":[[{"diffs":[[0,"idth: 48"],[-1,"1"],[1,"0"],[0,"px)\" hre"]],"start1":883,"start2":883,"length1":17,"length2":17}]],"length":4395,"saved":false}
+{"ts":1381279526650,"patch":[[{"diffs":[[0," type=\"e"],[-1,"-"],[0,"mail\" id"]],"start1":3143,"start2":3143,"length1":17,"length2":16}]],"length":4394,"saved":false}
