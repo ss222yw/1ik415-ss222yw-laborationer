@@ -35,9 +35,9 @@
       </ul>
        </div>
        <div id="content">
-        <p><strong>Vid frågor eller söknign efter lediga jobb eller undrar om priser kontakta oss.</strong></p>
+        <p><strong>kontakta oss.</strong></p>
 
-            <fieldset>
+            <fieldset class="mobile">
             <legend>Fråga</legend>
             <form action="http://homepage/www.server.se/pages/kontakt.html" method="post">
             <label for="Ärendetyp">Ärendetyp</label>
@@ -50,7 +50,6 @@
             
             <label for="Rubrik">Rubrik</label>
             <input value="Vad gör?" type="text" id="Rubrik" />
-            <input value="Vad gör?" type="number" id="mail" />
 
         <br/>
             
@@ -58,7 +57,31 @@
             <textarea id="Fråga" rows="3" cols="18">Jag sitter och gör färdig laboration 1 uppgift 1.9.</textarea>
             </fieldset>
             
-            <fieldset>
+              <fieldset>
+            <legend>Bli medlem hos oss!</legend>
+            <form action="http://homepage/www.server.se/pages/kontakt.html" method="post">
+            <label for="Ärendetyp">Tiden</label>
+            <select id="Ärendetyp" name="för tre månader">
+            <option value="för tre månader" selected>för tre månader</option>
+            <option value="för sex månader">för sex månader</option>
+            <option value="för ett år">för ett år</option>
+            </select>
+            </form>
+            
+            <label for="E-post">E-post:</label>
+            <input value="" type="e-mail" id="E-post" />
+            <br/>
+            <label for="url">Url:</label>
+            <input value="" type="url" id="url" />
+            <br/>
+            <label for="number">Number:</label>
+            <input value="" type="number" id="number" />
+            <br/>
+            <label for="telefon">Telefon:</label>
+            <input value="" type="tel" id="telefon" />
+            <br/>
+            </fieldset>
+            <fieldset class="mobile">
             <legend>Information om dig</legend>
              <form action="http://voyager.lnu.se/tekinet/kurser/dtt/wp_webbintro/form.php" method="post">
              <input type="checkbox" name="group1" value="Kontakta mig via mail" />kontakta mig via mail
