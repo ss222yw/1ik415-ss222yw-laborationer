@@ -1,20 +1,24 @@
-@media screen and (orientation:portrait) 
+/* Portrait */ 
+@media  screen and (orientation:portrait) 
 { 
-content img { 
- display: block; 
- margin: 0 auto 10px auto; 
- } 
+ 
 } 
  
-/* Landscape*/ 
-@media screen and (orientation:landscape) 
-{ 
-content img{ 
- float: left; 
- } 
-} 
+ @media screen and (max-width: 480px) and (orientation:landscape)  {
 
+}
 
+@media only screen and (max-width: 320px) and (orientation:landscape)  {
+  
+
+}
+
+   
+  @media  only screen and (-webkit-min-device-pixel-ratio : 1.5),
+    only screen and (min-device-pixel-ratio : 1.5) {
+    /* Styles */
+    }
+  
 
 
 
@@ -47,11 +51,12 @@ height:auto;}
 }
 #navigation {  
     margin-top:20px;
-    width: 97%;
+    width: 96%;
      border:1px solid;
     border-radius:25px;
 
-}  
+}
+#navigation ul li {width:90%;}
 #navigation ul { 
     width: 100%;  
     padding-right:10px;
