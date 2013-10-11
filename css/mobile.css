@@ -1,28 +1,6 @@
 /* Portrait */ 
-@media  screen and (orientation:portrait) 
-{ 
  
-} 
- 
- @media screen and (max-width: 480px) and (orientation:landscape)  {
-
-}
-
-@media only screen and (max-width: 320px) and (orientation:landscape)  {
-  
-
-}
-
-   
-  @media  only screen and (-webkit-min-device-pixel-ratio : 1.5),
-    only screen and (min-device-pixel-ratio : 1.5) {
-    /* Styles */
-    }
-  
-
-
-
-
+@media screen and (max-width: 480px)  {
 img { max-width: 100%; }
 video{max-width:100%;}
 iframe{max-width:100%;
@@ -66,3 +44,21 @@ height:auto;}
     padding-right:10px;
 }
 fieldset.mobile{display:none;}
+
+}
+
+@media only screen and (max-width: 320px) and (orientation:landscape)  {
+  
+
+}
+
+   
+  @media  only screen and (-webkit-min-device-pixel-ratio : 1.5),
+    only screen and (min-device-pixel-ratio : 1.5) {
+    /* Styles */
+    }
+  
+
+
+
+
