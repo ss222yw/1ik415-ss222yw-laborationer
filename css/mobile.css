@@ -10,6 +10,7 @@ p.photo img {max-width:100%;}
 h1.background
 {max-width:100%;}
 p.one img{max-width:100%;}
+p.mobilephoto img {max-width:100%;}
 p.tow img {max-width:100%;}
 video[poster]{max-width:100%;}
 .svg

@@ -1,7 +1,6 @@
 /* Layout */
 
 
-
 #menu a
 {
   background-image:url(pics/test.png);
@@ -262,6 +261,8 @@ height:300px;
 
 }
 p.one img{border-width:5px;	
+border-style:ridge;}
+p.mobilephoto img{border-width:5px;	
 border-style:ridge;}
 p.tow img {border-width:5px;	
 border-style:groove;}
