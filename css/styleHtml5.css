@@ -26,10 +26,10 @@ color:blue;}
 #nav #right{float:right;}
 #nav li a{
     font-size:2em;
-    color:yellow;
+    color:red;
     display:block;
-    padding:10px 20px;
-    
+    padding:10px 15px;
+
 }
 #nav li a:hover, nav .active a{
     text-decoration:none;
@@ -44,10 +44,8 @@ main h2{padding-left:10px; width:460px; float:left;}
 main img {-moz-border-radius:12px;
 -webkit-border-radius:12px;
 border-radius:12px;
-border:solid black 1px;
-float:left;
 margin:0 0 20px 0;
-height:300px;
+height:250px;
 width:440px;}
 main{clear:both;}
 #main section{width:240px;
@@ -73,6 +71,7 @@ border-radius:12px;
 padding:12px 230px;
 font-size:1.3em; color:#fff;
 margin-top:-30px;
+text-shadow: 5px 5px 5px black;
 
 }
 
@@ -97,4 +96,16 @@ a{color:#08c;}
 {
    font-weight:bolder ;
 }
+aside{background-color:black; border-radius:12px;}
+aside p{color:#FF6347;}
+aside h2{color:red; font-weight:bold; text-shadow: 5px 5px 5px #FF0000;}
+article{background-color:white; border-radius:12px;}
 
+.commentary {
+display: block;
+border: medium none;
+margin-top: none;
+background-color:#00FFFF;
+padding: 0px 0px 2px 5px;
+border-radius:12px;
+}
