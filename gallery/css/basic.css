@@ -1,3 +1,13 @@
 img{margin:0 0 20px 0;
-height:250px;
-width:440px;}
+height:260px;
+width:260px;
+padding:0 0 0 0;
+margin:auto;
+border:solid white 20px;
+-webkit-transform: rotate(10deg);}
+body {
+font-family: 'Molle', cursive;
+height: 100%;
+background-color: black;
+display: block;
+}
