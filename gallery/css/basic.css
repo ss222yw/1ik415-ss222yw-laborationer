@@ -66,10 +66,15 @@ a:nth-child(12) {-webkit-transform:translateX(10px);
 -o-transform:translateX(10px); 
 -ms-transform:translateX(10px);}
 
-a:nth-child(13) {-webkit-transform:translateX(15px); 
--moz-transform:translateX(15px); 
--o-transform:translateX(15px); 
--ms-transform:translateX(15px);}
+a:nth-child(13) {-webkit-transform:rotate(-15deg); 
+-moz-transform:rotate(-15deg); 
+-o-transform:rotate(-15deg); 
+-ms-transform:rotate(-15deg);}
+
+a:nth-child(14) {-webkit-transform:rotate(15deg); 
+-moz-transform:rotate(15deg); 
+-o-transform:rotate(15deg); 
+-ms-transform:rotate(15deg);}
 
     a {
         
@@ -125,3 +130,5 @@ background-color:white;
 color:black;
 font-weight:bold;
 }
+#sida {float:right;
+padding-top:110px;}
