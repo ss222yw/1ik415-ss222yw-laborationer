@@ -4,9 +4,21 @@ width:260px;
 padding:0 0 0 0;
 margin:auto;
 border:solid white 20px;
--webkit-transform: rotate(10deg);}
+-webkit-transform: rotate(18deg);
+box-shadow: 10px 10px 5px #888888;
+margin-left:10px;}
+.one img{-webkit-transform:skewY(18deg);
+}
+.three img {-webkit-transform:translate(100px,1px); -webkit-transform: rotate(-18deg);}
+.for img {-webkit-transform:translateX(10px);}
+.five img {-webkit-transform:scale(1.2,1.4);}
+.sex img {-webkit-transform:matrix(0.866,0.6,-0.8,0.866,0,0);}
 body {
+    font-family: 'Devonshire', cursive;
 height: 100%;
 background-color: black;
 display: block;
 }
+p{color:blue;}
+h2{color:red;}
+
