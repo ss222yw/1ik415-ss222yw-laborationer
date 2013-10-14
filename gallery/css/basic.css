@@ -45,7 +45,35 @@ margin-left:10px;}
 -o-transform: scale(1,1); 
 -ms-transform: scale(1,1);}
 
-    
+    a {
+    text-decoration: none;
+    display: block;
+    width: 330px;
+    height: 228px;
+    float: left;
+    margin-left: 10px;
+    margin-left-value: 20px;
+    margin-left-ltr-source: physical;
+    margin-left-rtl-source: physical;
+    opacity: .9;
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 250ms;
+    -moz-transform: scale(1,1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 250ms;
+}
+a:hover {
+    opacity: 1;
+    -webkit-transform: scale(1.2,1.2);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 200ms;
+    -moz-transform: scale(1.2,1.2);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 250ms;
+    position: relative;
+    z-index: 99;
+}
     
 
 
