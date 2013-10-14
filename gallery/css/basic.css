@@ -1,37 +1,64 @@
 img{margin:0 0 20px 0;
 height:260px;
 width:260px;
-padding:0 0 0 0;
-margin:auto;
 border:solid white 20px;
--webkit-transform: rotate( 18deg);
+box-shadow: 10px 10px 5px #888888;
+margin-left:10px;}
+
+.seven img {-webkit-transform: rotate( 18deg);
 –moz-transform: rotate( 18deg);
 -o-transform: rotate( 18deg);
-box-shadow: 10px 10px 5px #888888;
-margin-left:10px;
-position:relative;}
-.five:hover img {
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-}
+-ms-transform: rotate( 18deg);}
+
+
+.sex img {-webkit-transform:matrix(0.866,0.6,-0.8,0.866,0,0); 
+-moz-transform:matrix(0.866,0.6,-0.8,0.866,0,0);
+-o-transform:matrix(0.866,0.6,-0.8,0.866,0,0); 
+-ms-transform:matrix(0.866,0.6,-0.8,0.866,0,0);}
+
+.five img {-webkit-transform: rotate( -8deg);
+–moz-transform: rotate( -8deg);
+-o-transform: rotate( -8deg);
+-ms-transform: rotate( -8deg);}
+
+.for img {-webkit-transform:translateX(10px); 
+-moz-transform:translateX(10px); 
+-o-transform:translateX(10px); 
+-ms-transform:translateX(10px);}
+
+.three img {-webkit-transform:translate(100px,1px);
+-moz-transform:translate(100px,1px);
+-o-transform:translate(100px,1px); 
+-ms-transform:translate(100px,1px);
+-webkit-transform: rotate(-18deg); 
+-moz-transform: rotate(-18deg); 
+-o-transform: rotate(-18deg); 
+-ms-transform: rotate(-18deg);}
+
+
 .one img{-webkit-transform:skewY(18deg);
--moz-transform:skewY(18deg);
--o-transform:skewY(18deg);
--webkit-transform: scale(1,1);
--moz-transform: scale(1,1);
--o-transform: scale(1,1);}
-.three img {-webkit-transform:translate(100px,1px); -moz-transform:translate(100px,1px); -o-transform:translate(100px,1px);
--webkit-transform: rotate(-18deg); -moz-transform: rotate(-18deg); -o-transform: rotate(-18deg);}
-.for img {-webkit-transform:translateX(10px); -moz-transform:translateX(10px); -o-transform:translateX(10px);}
-.five img {-webkit-transform:scale(1.2,1.4); -moz-transform:scale(1.2,1.4); -o-transform:scale(1.2,1.4);}
-.sex img {-webkit-transform:matrix(0.866,0.6,-0.8,0.866,0,0); -moz-transform:matrix(0.866,0.6,-0.8,0.866,0,0); -o-transform:matrix(0.866,0.6,-0.8,0.866,0,0);}
+-moz-transform:skewY(18deg); 
+-o-transform:skewY(18deg); 
+-ms-transform:skewY(18deg); 
+-webkit-transform: scale(1,1); 
+-moz-transform: scale(1,1); 
+-o-transform: scale(1,1); 
+-ms-transform: scale(1,1);}
+
+    
+    
+
+
 body {
     font-family: 'Devonshire', cursive;
-height: 100%;
 background-color: black;
-display: block;
 }
 p{color:blue;}
 h2{color:red;}
-
+p:after
+{ 
+content:"- Eller hur?";
+background-color:yellow;
+color:green;
+font-weight:bold;
+}
