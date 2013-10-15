@@ -126,8 +126,10 @@ body {
 background-color: black;
 }
 
-p{color:blue;}
-h2{color:red;}
+p{color:blue;
+font-size:200%;}
+h2{color:red;
+font-size:400%;}
 
 a:after
 {
@@ -139,7 +141,7 @@ p:after
 content:"- Eller hur?";
 background-color:white;
 color:black;
-font-weight:bold;
+font-size:200%;
 }
 #sida {float:right;
 padding-top:110px;}
