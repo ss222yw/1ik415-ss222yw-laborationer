@@ -4,40 +4,44 @@ img{ width: 270px;
 a:nth-child(1) {-webkit-transform: rotate( 18deg);
 –moz-transform: rotate( 18deg);
 -o-transform: rotate( 18deg);
--ms-transform: rotate( 18deg);}
+-ms-transform: rotate( 18deg);
+font-size:175%;}
 
 
 a:nth-child(2) {-webkit-transform:matrix(0.866,0.6,-0.8,0.866,0,0); 
 -moz-transform:matrix(0.866,0.6,-0.8,0.866,0,0);
 -o-transform:matrix(0.866,0.6,-0.8,0.866,0,0); 
--ms-transform:matrix(0.866,0.6,-0.8,0.866,0,0);}
+-ms-transform:matrix(0.866,0.6,-0.8,0.866,0,0);
+font-size:200%;}
 
 a:nth-child(3) {-webkit-transform: rotate( -8deg);
 –moz-transform: rotate( -8deg);
 -o-transform: rotate( -8deg);
--ms-transform: rotate( -8deg);}
+-ms-transform: rotate( -8deg);
+font-size:220%;}
 
 a:nth-child(4) {-webkit-transform:translateX(10px); 
 -moz-transform:translateX(10px); 
 -o-transform:translateX(10px); 
--ms-transform:translateX(10px);}
+-ms-transform:translateX(10px);
+font-size:170%;}
 
 a:nth-child(5){-webkit-transform:rotate(18deg);
 -moz-transform:rotate(18deg); 
 -o-transform:rotate(18deg); 
 -ms-transform:rotate(18deg); 
-}
+font-size:100%;}
 a:nth-child(5){-webkit-transform:rotate(8deg);
 -moz-transform:rotate(8deg); 
 -o-transform:rotate(8deg); 
 -ms-transform:rotate(8deg); 
-
+font-size:210%;
 }
 a:nth-child(7){-webkit-transform:rotate(-18deg);
 -moz-transform:rotate(-18deg); 
 -o-transform:rotate(-18deg); 
 -ms-transform:rotate(-18deg); 
-}
+font-size:130%;}
 a:nth-child(8) {-webkit-transform:translate(100px,1px);
 -moz-transform:translate(100px,1px);
 -o-transform:translate(100px,1px); 
@@ -45,36 +49,43 @@ a:nth-child(8) {-webkit-transform:translate(100px,1px);
 -webkit-transform: rotate(-18deg); 
 -moz-transform: rotate(-18deg); 
 -o-transform: rotate(-18deg); 
--ms-transform: rotate(-18deg);}
+-ms-transform: rotate(-18deg);
+font-size:240%;}
 
 a:nth-child(9) {-webkit-transform: rotate( 18deg);
 –moz-transform: rotate( 18deg);
 -o-transform: rotate( 18deg);
--ms-transform: rotate( 18deg);}
+-ms-transform: rotate( 18deg);
+font-size:110%;}
 a:nth-child(10) {-webkit-transform: rotate( -9deg);
 –moz-transform: rotate( -9deg);
 -o-transform: rotate( -9deg);
--ms-transform: rotate( -9deg);}
+-ms-transform: rotate( -9deg);
+font-size:180%;}
 a:nth-child(11) {-webkit-transform:matrix(0.866,0.6,-0.8,0.866,0,0); 
 -moz-transform:matrix(0.866,0.6,-0.8,0.866,0,0);
 -o-transform:matrix(0.866,0.6,-0.8,0.866,0,0); 
--ms-transform:matrix(0.866,0.6,-0.8,0.866,0,0);}
+-ms-transform:matrix(0.866,0.6,-0.8,0.866,0,0);
+font-size:120%;}
 
 
 a:nth-child(12) {-webkit-transform:translateX(10px); 
 -moz-transform:translateX(10px); 
 -o-transform:translateX(10px); 
--ms-transform:translateX(10px);}
+-ms-transform:translateX(10px);
+font-size:140%;}
 
 a:nth-child(13) {-webkit-transform:rotate(-15deg); 
 -moz-transform:rotate(-15deg); 
 -o-transform:rotate(-15deg); 
--ms-transform:rotate(-15deg);}
+-ms-transform:rotate(-15deg);
+font-size:200%;}
 
 a:nth-child(14) {-webkit-transform:rotate(15deg); 
 -moz-transform:rotate(15deg); 
 -o-transform:rotate(15deg); 
--ms-transform:rotate(15deg);}
+-ms-transform:rotate(15deg);
+font-size:160%;}
 
     a {
         
@@ -93,7 +104,7 @@ a:nth-child(14) {-webkit-transform:rotate(15deg);
     box-shadow: 10px 10px 5px #888888;
     margin-left:30px;
     background-color:white;
-    padding:10px 10px 20px 0;
+    padding:10px 10px 50px 0;
     position:relative;
 
 
